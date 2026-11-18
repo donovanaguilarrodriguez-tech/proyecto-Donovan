@@ -2,7 +2,7 @@
 #define ADMINISTRATIVO_H
 #include "Empleado.h"
 
-// Clase Administrativo que hereda de la clase base abstracta Empleado[cite: 32]
+// Clase Administrativo que hereda de la clase base abstracta Empleado
 class Administrativo : public Empleado {
 public:
 	Administrativo();
